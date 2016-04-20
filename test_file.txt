@@ -6,3 +6,4 @@ AAAAA
 "new line" 
 "new line" 
 "BBBBB" 
+"new line" 
